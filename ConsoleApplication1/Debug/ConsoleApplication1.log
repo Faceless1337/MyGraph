@@ -1,0 +1,98 @@
+﻿  ConsoleApplication1.cpp
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(852,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(841): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::Reverse_Edge_Iterator::prev(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(593): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Reverse_Edge_Iterator::prev(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(559): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Reverse_Edge_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(857,69): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(863,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(586,51): warning C4018: >: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(576): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::Const_Edge_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(503): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Const_Edge_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(488): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Const_Edge_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(591,51): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(591,69): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(543,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(540): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Reverse_Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(364): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Reverse_Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(312): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Reverse_Node_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(525,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(522): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Reverse_Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(357): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Reverse_Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(449,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(435): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Reverse_Node_Iterator::deleteNode(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(378): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Reverse_Node_Iterator::deleteNode(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(450,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(287,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(284): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Const_Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(290): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Const_Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(239): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Const_Node_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(269,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(266): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Const_Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(283): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Const_Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(231,46): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(220): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::Const_Node_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(255): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Const_Node_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(410,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(407): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(211): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getIncidentEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(159): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Node_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(392,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(389): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(204): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getAdjacentNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(354,46): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(343): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::Node_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(176): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Node_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(332,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(318): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Node_Iterator::deleteNode(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(225): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::deleteNode(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(333,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(703,51): warning C4018: >: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(693): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::Edge_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(59): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Edge_Iterator::next(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(55): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>::Edge_Iterator"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(708,51): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(708,69): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(679,61): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(653): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::Edge_Iterator::deleteEdge(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(474): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Edge_Iterator::deleteEdge(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(199,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(197): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::showEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<std::string>"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(200,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(191,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(189): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::showNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(121): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showNodes(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(183,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(181): message : во время компиляции функции-члена класс шаблон "int Graph<std::string>::countOfEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<std::string>::countOfEdges(void)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(161,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(160): message : во время компиляции функции-члена класс шаблон "int Graph<std::string>::isNodeExist(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(396): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<std::string>::isNodeExist(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(146,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(145): message : во время компиляции функции-члена класс шаблон "int Graph<std::string>::isEdgeExist(std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(639): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<std::string>::isEdgeExist(std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(150,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(117,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(112): message : во время компиляции функции-члена класс шаблон "int Graph<std::string>::nodeDegree(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(144): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<std::string>::nodeDegree(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(91,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(87): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::deleteEdge(std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(95,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(51,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(46): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::deleteNode(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(76): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteNode(std::basic_string<char,std::char_traits<char>,std::allocator<char>>)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(134,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(131): message : во время компиляции функции-члена класс шаблон "bool Graph<std::string>::isEdgeExist(int,int)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(545): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::isEdgeExist(int,int)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(76,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(72): message : во время компиляции функции-члена класс шаблон "void Graph<std::string>::deleteEdge(int,int)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(55): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(int,int)"
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(715): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Edge_Iterator::next: значение возвращается не при всех путях выполнения
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(744): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Edge_Iterator::prev: значение возвращается не при всех путях выполнения
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(627): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Const_Edge_Iterator::prev: значение возвращается не при всех путях выполнения
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(598): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Const_Edge_Iterator::next: значение возвращается не при всех путях выполнения
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(839): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Reverse_Edge_Iterator::next: значение возвращается не при всех путях выполнения
+D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\ConsoleApplication1\Graph.h(868): warning C4715: Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Reverse_Edge_Iterator::prev: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> D:\labs\2 kurs\sem 1\PPVIS\lab 4\ConsoleApplication1\Debug\ConsoleApplication1.exe
